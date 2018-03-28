@@ -1,0 +1,10 @@
+Token PSGC: token ethereum de paris sportifs
+
+
+- Quelle sera sa valeur ? 
+I token PSGC =~ 10e
+- Qui l'émettra ? En quelle quantité ? Sera-t-il possible d'un créer de nouveaux ? D'en détruire ?
+Le createur (benjamin et moi) en avons créé 10 millions, on ne pourra plus en créer de nouveaux (il faudra se les echanger)
+on ne pourra pas les détruire 
+- Faudra-t-il être authentifié pour en posséder ? pour en transmettre ? Si oui, par qui ?
+Il faudra etre identifier pour en posséder et pour en transmettre. Par n'importe qui
