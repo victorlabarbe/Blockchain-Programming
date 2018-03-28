@@ -1,0 +1,38 @@
+Niveau 1
+- Quelle a été le montant de votre commission ?
+0.000051 BTC
+- Combien de temps à mis la transaction pour être diffusée = visible par le destinataire ?
+1minute 
+- Qu'est-ce que le nombre de confirmations ?
+
+- Qui a reçu la commission ?
+Le mineur qui a miné le block dans laquelle est ma transaction 
+- Pourquoi chaque input pointe vers un précédent output ?
+Car la blockchain est un repertoire geant, chaque block recoit l'information d'un block precedent,
+et l'envoit au suivant 
+- Pourquoi y-a-t-il parfois des indications "unspent" à côté des outputs ?
+- Pourquoi l'émetteur a-t-il changé d'adresse ?
+Car il y a une unique adresse publique pour chaque transaction, derivable a l'infini
+- Combien y avait-il de transactions dans le bloc contenant ma transaction ?
+2 456
+- Qu'est-ce que l'authentification 2FA d'un wallet ? Pour doit-on l'utiliser ?
+Pour garantir plus de sécurité
+- Quel est mon nouveau solde ?
+5BTC
+
+Niveau 3
+- Qu'est-ce que les clés commençants par xpub et xpriv ?
+xpub sont les clés publiques (servant a recevoir une transaction),
+xpriv sont les clés privées (servant a signer une transaction)
+- Qu'est-ce que le WIF ?
+
+- Qu'est-ce que contient l'adresse ?
+
+- A quoi servent les 24 mots enregistrés (clé mnemonic) ? = Dans quels cas me sont-ils utiles ?
+En cas de perte de clé privée, ces mots servent a retrouver sa clé privée
+
+Niveau 4
+- Donnez une hypothèse sur la méthode de fonctionnement de ce service ?
+Les lettres tapées forment une clé privée aléatoire
+- Y-a-t-il, selon vous, des cas pratiques utilisant judicieusement Vanity ?
+Pour prouver son identité, signer une transaction avec son prenom au sein meme de la clé
